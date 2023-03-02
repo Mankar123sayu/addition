@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Addition_of_two_numbers
+namespace substraction_of_two_numbers
 {
     class Program //entry point of application
     {
@@ -8,9 +8,9 @@ namespace Addition_of_two_numbers
         {
             int x = 15;
             int y = 10;
-            int sum = x + y;
-            Console.WriteLine(sum);
-            Console.WriteLine("hwllow world");
+            int sub = x - y;
+            Console.WriteLine(sub);
+            
         }
     }
 }
